@@ -6,11 +6,7 @@ The project covers the complete ML pipeline, including data preprocessing, explo
 
 ## **🛠️ Tech Stack**
 - **Programming Language:** Python
-- **Libraries & Tools:** Scikit-learn
-                         Pandas
-                         NumPy
-                         Matplotlib
-                         Seaborn
+- **Libraries & Tools:** Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn
 
 ## **📊 Dataset Features**
 The dataset includes the following health parameters:
